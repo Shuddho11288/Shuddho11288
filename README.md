@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shuddho11288
+- 👋 Hi, I’m @Shuddho 11288
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python, javascript, web development etc...
 - 💞️ I’m looking to collaborate on my projects
