@@ -64,8 +64,8 @@ Quantifying the extent of my coding endeavors offers a glimpse into the scale an
 
 ### My Certificates
 
-[Sololearn Python Core](https://i.postimg.cc/h45dn4Vs/Whats-App-Image-2023-07-05-at-22-29-53-edaf19d0.jpg)
-[Sololearn Responsive Web Design](https://i.postimg.cc/G29FCXhg/Whats-App-Image-2023-07-05-at-22-29-07-7b02fc33.jpg)
+![Sololearn Python Core](https://i.postimg.cc/h45dn4Vs/Whats-App-Image-2023-07-05-at-22-29-53-edaf19d0.jpg)
+![Sololearn Responsive Web Design](https://i.postimg.cc/G29FCXhg/Whats-App-Image-2023-07-05-at-22-29-07-7b02fc33.jpg)
 
 ## Conclusion
 
