@@ -62,6 +62,11 @@ Quantifying the extent of my coding endeavors offers a glimpse into the scale an
 
 ![Code Lines](https://img.shields.io/tokei/lines/github/Shuddho11288/Shuddho11288?color=blue&label=Total%20Code%20Lines)
 
+### My Certificates
+
+[Sololearn Python Core](https://i.postimg.cc/h45dn4Vs/Whats-App-Image-2023-07-05-at-22-29-53-edaf19d0.jpg)
+[Sololearn Responsive Web Design](https://i.postimg.cc/G29FCXhg/Whats-App-Image-2023-07-05-at-22-29-07-7b02fc33.jpg)
+
 ## Conclusion
 
 Thank you for taking the time to explore my GitHub profile and learn more about my journey as a programmer. I'm passionate about leveraging technology to solve real-world problems and create meaningful experiences that enrich lives.
